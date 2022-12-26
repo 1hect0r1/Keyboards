@@ -3,12 +3,9 @@
 
 #pragma once
 
-
 #define RP2040_BOOTLOADER_DOUBLE_TAP_RESET // Activates the double-tap behavior
 #define RP2040_BOOTLOADER_DOUBLE_TAP_RESET_TIMEOUT 200U // Timeout window in ms in which the double tap can occur.
 #define RP2040_BOOTLOADER_DOUBLE_TAP_RESET_LED GP17 // Specify a optional status led by GPIO number which blinks when entering the bootloader
-
-
 
 #define MATRIX_ROWS 4
 #define MATRIX_COLS 12
@@ -17,18 +14,3 @@
 #define MATRIX_COL_PINS {GP2, GP11, GP9, GP13, GP10, GP4, GP23, GP21, GP16, GP28, GP19, GP27}
 
 #define DIODE_DIRECTION COL2ROW
-/*
- * Feature disable options
- *  These options are also useful to firmware size reduction.
- */
-
-/* disable debug print */
-//#define NO_DEBUG
-
-/* disable print */
-//#define NO_PRINT
-
-/* disable action features */
-//#define NO_ACTION_LAYER
-//#define NO_ACTION_TAPPING
-//#define NO_ACTION_ONESHOT
