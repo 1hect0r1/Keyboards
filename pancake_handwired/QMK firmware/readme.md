@@ -1,8 +1,7 @@
 # pancake_handwired
 
-![pancake_handwired](imgur.com image replace me!)
+![[pancake_handwired](https://imgur.com/a/LU6qleQ)](imgur.com image replace me!)
 
-*A short description of the keyboard/project*
 
 * Keyboard Maintainer: [hector](https://github.com/1hect0r1)
 * Hardware Supported: *The PCBs, controllers supported*
