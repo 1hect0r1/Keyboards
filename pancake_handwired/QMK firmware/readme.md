@@ -1,8 +1,5 @@
 # pancake_handwired
 
-![pancake_handwired](https://i.imgur.com/fiBxLqj.jpg)
-
-
 * Keyboard Maintainer: [hector](https://github.com/1hect0r1)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
