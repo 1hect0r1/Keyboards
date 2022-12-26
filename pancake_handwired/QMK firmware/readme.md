@@ -1,6 +1,6 @@
 # pancake_handwired
 
-!(pancake_handwired)[https://imgur.com/a/LU6qleQ]
+![pancake_handwired](https://imgur.com/a/LU6qleQ)
 
 
 * Keyboard Maintainer: [hector](https://github.com/1hect0r1)
